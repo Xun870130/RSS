@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>自選股價 RSS Feed</title><link>http://yourdomain.com/rss</link><description>追蹤自選股票的高低價、成交量與現價</description><language>zh-tw</language><lastBuildDate>Tue, 19 Nov 2024 14:00:45 -0000</lastBuildDate><item><title>TSM 股價更新</title><link>https://finance.yahoo.com/quote/TSM</link><description>TSM 的最新股價資訊：
+現價：186.66 元
+高價：無法取得高價 元
+低價：無法取得低價 元
+成交量：無法取得成交量 股</description></item><item><title>AAPL 股價更新</title><link>https://finance.yahoo.com/quote/AAPL</link><description>AAPL 的最新股價資訊：
+現價：228.02 元
+高價：無法取得高價 元
+低價：無法取得低價 元
+成交量：無法取得成交量 股</description></item><item><title>GOOG 股價更新</title><link>https://finance.yahoo.com/quote/GOOG</link><description>GOOG 的最新股價資訊：
+現價：176.80 元
+高價：無法取得高價 元
+低價：無法取得低價 元
+成交量：無法取得成交量 股</description></item></channel></rss>
